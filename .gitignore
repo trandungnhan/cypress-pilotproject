@@ -1,0 +1,6 @@
+.\package.json
+.\yam.lock
+.\cypress\downloads
+.\cypress\fixture
+.\cypress\support
+.\cypress\videos
