@@ -10,3 +10,4 @@
 .\cypress.config.js
 .\package.json
 .\yarn.lock
+.\allure*
