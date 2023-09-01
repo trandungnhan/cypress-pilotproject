@@ -4,3 +4,9 @@
 .\cypress\fixture
 .\cypress\support
 .\cypress\videos
+.\cypress\e2e
+.\cypress\fixtures
+.\cypress\node_modules
+.\cypress.config.js
+.\package.json
+.\yarn.lock
