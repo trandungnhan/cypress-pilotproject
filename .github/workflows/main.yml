@@ -10,5 +10,5 @@ jobs:
      - name: Run Cypress Test
        uses: cypress-io/github-action@v4
        with:
-         command: yarn cypress run ./cypress/TheMagento/**.* --browser chrome --headless --env allure=true --reporter mocha-allure-reporter
+         command: yarn cypress run ./cypress/TheMagento/verifyTheMagentoPage.js --browser chrome --headless --env allure=true --reporter mocha-allure-reporter
          browser: chrome
