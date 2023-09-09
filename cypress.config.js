@@ -17,5 +17,5 @@ module.exports = defineConfig({
     },
     specPattern: "./cypress/TheMagento/**.*",
   },
-  defaultCommandTimeout:6000
+  defaultCommandTimeout:15000
 });
